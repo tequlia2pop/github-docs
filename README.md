@@ -8,8 +8,12 @@
 
 *   Github Flow —— 以部署为中心的开发模式
 
-	* [Github Flow 简介](github-flow-introduction.md)
+	* [Github Flow 简介](github-flow/github-flow-introduction.md)
 
-	* [Github Flow 实战](github-flow-in-action.md)
+	* [Github Flow 实战](github-flow/github-flow-in-action.md)
   
 *   Git Flow —— 以发布为中心的开发模式
+
+	* [在 Github 上使用 Git Flow](git-flow/git-flow-on-github.md)
+	
+	* [Git Flow 实战](git-flow/git-flow-in-action.md)
